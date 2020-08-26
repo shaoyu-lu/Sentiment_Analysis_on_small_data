@@ -1,6 +1,6 @@
 # [Experiment] BERT Few-Sample Fine-Tuning on Sentiment Analysis Dataset
 在情緒識別的小型資料集上，對 BERT pre-trained model 進行 Fine-Tuning ，觀察能達到多好的效果。  
-
+　  
 > *在真實的場景中，質量俱佳的資料經常是可遇不可求。*  
 
 網路上的 BERT 教程，為了提高入門者的成功率，會使用一定量級的資料集（資料量能達到萬筆以上）做示範，卻鮮少提及一項重要的實務問題－－ pre-trained model 在小資料集上的成效究竟會打多少折扣？這也引發了本次實驗的動機。 
